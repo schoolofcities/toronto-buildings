@@ -381,12 +381,10 @@
 <style>
 
 	#map {
-		height: 100vh;
-		width: 100vw;
-		/* overflow: hidden; */
+		height: 100dvh;
+		width: 100dvw;
 		background-color: #141414;
 		z-index: 0;
-		/* position: relative; */
 	}
 
 	#tooltip {
