@@ -10,7 +10,7 @@
 
 	let map;
 
-	let buildings = "/toronto-buildings/buildings-2025.pmtiles";
+	let buildings = "/toronto-buildings/buildings-2025.pmtiles.gz";
 
 	const heightColors = [
 		"#1E3765",
