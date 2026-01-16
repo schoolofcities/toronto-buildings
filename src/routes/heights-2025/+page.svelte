@@ -335,6 +335,27 @@
 
 	<title>Toronto Building Heights | School of Cities</title>
 
+	<meta
+		name="viewport"
+		content="width=device-width, initial-scale=1, minimum-scale=1"
+	/>
+
+	<meta name="description" content="">
+	<meta name="author" content="Jeff Allen">
+    
+	<meta property="og:title" content="Toronto Building Heights" />
+	<meta property="og:description" content="Interactive map of building massing data across Toronto" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://schoolofcities.github.io/toronto-buildings/heights-2025" />
+	<meta property="og:image" content="https://schoolofcities.github.io/toronto-buildings/web-card.png" />
+	<meta property="og:locale" content="en_CA">
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/toronto-buildings/heights-2025" />
+	<meta name="twitter:title" content="Toronto Building Heights" />
+	<meta name="twitter:description" content="Interactive map of building massing data across Toronto" />
+	<meta name="twitter:image" content="https://schoolofcities.github.io/toronto-buildings/web-card.png" /> 
+
 
 </svelte:head>
 
